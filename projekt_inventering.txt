@@ -1,0 +1,48 @@
+.
+├── index.html
+├── package.json
+├── postcss.config.js
+├── projekt_inventering.txt
+├── public
+│   ├── favicon.ico
+│   └── Icon.png
+├── README.md
+├── src
+│   ├── App.jsx
+│   ├── components
+│   │   ├── AccountTimeseriesView.jsx
+│   │   ├── MonthlyComparisonView.jsx
+│   │   ├── TimeseriesUploader.jsx
+│   │   ├── TrendAnalysisView.jsx
+│   │   └── ui
+│   │       ├── alert.jsx
+│   │       ├── badge.jsx
+│   │       ├── button.jsx
+│   │       ├── card.jsx
+│   │       ├── checkbox.jsx
+│   │       ├── input.jsx
+│   │       ├── label.jsx
+│   │       ├── select.jsx
+│   │       ├── table.jsx
+│   │       └── tabs.jsx
+│   ├── core
+│   │   ├── csv_processor.js
+│   │   ├── period_extractor.js
+│   │   └── timeseries_models.js
+│   ├── lib
+│   │   └── utils.js
+│   ├── main.jsx
+│   ├── services
+│   │   ├── aggregation_service.js
+│   │   ├── reach_calculator.js
+│   │   └── timeseries_analytics.js
+│   ├── styles
+│   │   └── globals.css
+│   └── utils
+│       ├── metric_categorizer.js
+│       ├── period_validator.js
+│       └── timeseries_storage.js
+├── tailwind.config.js
+└── vite.config.js
+
+10 directories, 36 files
