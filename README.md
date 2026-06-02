@@ -2,6 +2,8 @@
 
 Webbapplikation för analys av Instagram-kontors månadsstatistik. Ladda upp CSV-filer med månatlig data och visualisera utveckling över tid.
 
+> Det här är ett personligt hobbyprojekt som jag byggt för eget bruk och lagt upp ifall det är till nytta för någon annan. Jag jobbar på det på fritiden, så issues och PR:ar är välkomna men svar kan dröja. Använd på egen risk.
+
 ## Översikt
 
 Applikationen analyserar och visualiserar Instagram-data över tid:
